@@ -3,7 +3,7 @@
 ### By B-Ibarra
 
 #### About this portfolio
-Here, you'll find a collection of projects where I applu different methodologies to extract and visualize meaningful insights from a variety of datasets. Each notebook within this portfolio offers a detailed exploration of a data science analysis, employing diverse Python libraries.
+Here, you'll find a collection of projects where I apply different methodologies to extract and visualize meaningful insights from a variety of datasets. Each notebook within this portfolio offers a detailed exploration of a data science analysis, employing diverse Python libraries.
 
 Feel free to dive into the notebooks directly here, or you can access them on Google Colab through the links provided in the following section. Whether you're interested in data visualization, machine learning, or exploratory data analysis, there's something here for you to explore and learn from. Enjoy your journey through my portfolio 🧙🏼‍♀️🪄📈!
 
